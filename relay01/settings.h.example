@@ -1,0 +1,9 @@
+// settings.h
+
+#ifndef SETTINGS_H
+#define SETTINGS_H
+
+const char *ssid = "ssid";
+const char *password = "password";
+
+#endif // SETTINGS_H
